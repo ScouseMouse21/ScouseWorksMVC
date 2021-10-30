@@ -1,5 +1,5 @@
 {
-    "ScouseWorksMDev":{"Active":true,"IP":"5.71.241.255","Owner":"ScouseMouse"},
+    "ScouseWorksMDev":{"Active":false,"IP":"5.71.241.255","Owner":"ScouseMouse"},
     "NationRP":{"Active":true,"IP":"167.88.12.92","Owner":"JC"},
 
     "SCOUSEWORKS_OPTIONS":{"Resources":["sw-core","sw-death","sw-faction","sw-hud","sw-ipls","sw-menu","sw-weather","sw-ymap"],"URL":"https://discord.com/api/webhooks/903409285562761216/CD4AG3WCYp2yqLHFDacereVASuVhzVXEYKx6fOPUiZlDmXjCLBUtL5gMpKef4EyqpGmN"}
